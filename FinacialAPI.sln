@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finacial.API", "Finacial.API\Finacial.API.csproj", "{ED351860-D153-4AEE-A48A-541A6CFEA730}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financial.API", "Financial.API\Financial.API.csproj", "{ED351860-D153-4AEE-A48A-541A6CFEA730}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finacial.Application", "Finacial.Application\Finacial.Application.csproj", "{8810FFE6-3A64-48AD-A7F6-8C893BA0E5D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financial.Application", "Financial.Application\Financial.Application.csproj", "{8810FFE6-3A64-48AD-A7F6-8C893BA0E5D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finacial.Domain", "Finacial.Domain\Finacial.Domain.csproj", "{F26C02C6-B50B-4E73-93DC-75DD7FF9AA6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financial.Domain", "Financial.Domain\Financial.Domain.csproj", "{F26C02C6-B50B-4E73-93DC-75DD7FF9AA6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finacial.Domain.Tests", "Finacial.Domain.Tests\Finacial.Domain.Tests.csproj", "{F4B1B065-3EF5-432C-9A11-DC5B2D3C783A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financial.Domain.Tests", "Financial.Domain.Tests\Financial.Domain.Tests.csproj", "{F4B1B065-3EF5-432C-9A11-DC5B2D3C783A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finacial.Infra.Data", "Finacial.Infra.Data\Finacial.Infra.Data.csproj", "{76E16130-EB3E-4DA8-825A-024E8EB81FE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financial.Infra.Data", "Financial.Infra.Data\Financial.Infra.Data.csproj", "{76E16130-EB3E-4DA8-825A-024E8EB81FE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finacial.Infra.IoC", "Finacial.Infra.IoC\Finacial.Infra.IoC.csproj", "{BEACABA2-3E36-47B7-A688-A48810FD09D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financial.Infra.IoC", "Financial.Infra.IoC\Financial.Infra.IoC.csproj", "{BEACABA2-3E36-47B7-A688-A48810FD09D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
